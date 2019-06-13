@@ -10,7 +10,7 @@ Photo display of a vue 2.0 component
 
 # install
 	
-	npm install vue-photo-carousel --save
+	npm install vue2-photo-carousel --save-dev
 	
 
 # how to use
