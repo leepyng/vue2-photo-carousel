@@ -19,7 +19,7 @@ Photo display of a vue 2.0 component
 	
 	script:
 		//import
-		import PhotosBox from 'vue2-photo-carousel'//图片查看器
+		import PhotosBox from 'vue2-photo-carousel'
 		
 		//define
 		components:{
