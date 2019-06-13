@@ -3,7 +3,7 @@ Photo display of a vue 2.0 component
 <p align="center">
 
 
-<img src="https://github.com/leepyng/vue-datepicker-infinite/blob/master/git/QQ20180508-153441.gif" alt="Coverage Status">
+<img src="https://github.com/leepyng/vue2-photo-carousel/blob/master/git/img.gif" alt="Coverage Status">
 
 
 </p>
