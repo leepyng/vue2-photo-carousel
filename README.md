@@ -1,4 +1,4 @@
-# vue-photo-carousel
+# vue2-photo-carousel
 Photo display of a vue 2.0 component
 <p align="center">
 
